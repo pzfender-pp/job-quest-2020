@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  margin: 10px;
+  padding: 10px;
+}
+
+.wraper {
+  width: 750px;
+  min-height: 200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f3f3f3;
+}
+
+.user-input {
+  width: 150px;
+  height: 25px;
+  padding: 5px;
+  margin: 5px;
+}
+
+p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.btn {
+  width: 120px;
+  height: 25px;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  background-color: #333;
+  color: #f3f3f3;
+}
+
+.btn:hover {
+  background-color: #f3f3f3;
+  color: #333;
+  border: 2px solid #333;
+  padding: 0px;
+}
+
